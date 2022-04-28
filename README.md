@@ -1,0 +1,2 @@
+# Kuwait-Flag-ClipPath
+ Kuwait
