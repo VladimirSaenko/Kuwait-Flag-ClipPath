@@ -9,8 +9,8 @@
 body {
     height: 300vh;
     background: url(img/bg.jpg);
-    background-size: cover;
-    background-attachment: fixed;
+    background-size: cover !important;
+    background-attachment: fixed !important;
 }
 
 section {
@@ -44,7 +44,5 @@ section .side#side2 {
 @media screen and (min-width: 300px) and (max-width: 800px)  {
     body {
         background: url(img/bg2.jpg);
-        background-size: cover;
-        background-attachment: fixed;
     }
 }
